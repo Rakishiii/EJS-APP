@@ -1,0 +1,10 @@
+body{
+    background-color:aliceblue;
+}
+
+h1, p{
+    background-color: orange;
+    color: pink;
+    padding: 500px;
+    text-align: center;
+}
